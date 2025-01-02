@@ -1,0 +1,13 @@
+tr:nth-child(2n+2) {
+    background-color: #ccc;
+}
+td {
+    width: 150px;
+    text-align: center;
+    border: 2px solid #1a1a1a;
+    padding: 10px 0;
+}
+.nameType {
+    padding-left: 60px;
+    text-align: left;
+}

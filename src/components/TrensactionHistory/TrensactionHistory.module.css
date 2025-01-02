@@ -1,0 +1,15 @@
+.customTable {
+    border-collapse: collapse;
+    width: 700px;
+    margin: 40px auto;
+}
+.customThead {
+    color: white;
+    background-color: #333;
+    width: 260px;
+}
+th {
+    font-size: 18px;
+    border: 2px solid #1a1a1a;
+    padding: 10px 0;
+}

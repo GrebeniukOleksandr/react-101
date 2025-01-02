@@ -1,0 +1,26 @@
+.container {
+    width: 650px;
+    margin: 40px auto 0;
+    border:5px solid #000;
+    border-radius: 20px;
+    overflow: hidden;
+    margin-bottom: 40px;
+}
+.box {
+    width: 100%;
+    text-align: center;
+}
+.img {
+    margin-top: 25px;
+    width: 200px;
+    background-color: rgb(50, 50, 50);
+    border-radius: 50%;
+}
+.name {
+    font-size: 50px;
+    font-weight: bold;
+}
+.text {
+    color: gray;
+    font-size: 45px;
+}
